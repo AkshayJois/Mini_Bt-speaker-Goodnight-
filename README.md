@@ -1,7 +1,7 @@
 # Mini_Bt-speaker-Goodnight-
 ## Its a 3W bluetooth speaker with ,Mid-bass output
 
--![TEST RESULT](https://i.pinimg.com/originals/56/45/74/564574e66264508549d43d13b94b7fc9.jpg)
+-![TEST RESULT](https://i.pinimg.com/originals/8a/6a/ed/8a6aedffbeb8918394bab6386a78d54a.jpg)
 
 Bluetooth module can be replaced by USB-Bluetooth adapter. The best
 amplifier will be PAM8403(choose this based on size to performance ratio)
